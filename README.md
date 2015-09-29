@@ -2,4 +2,4 @@
 
 编译环境为 ubuntu12.04 + gcc version 4.6.3
 
-by ljt
+by ljt 2010.10.1
